@@ -1,0 +1,6 @@
+# config.py
+
+MAX_TOKENS = 1000
+CHARACTER_LIMIT = 1000
+AUDIO_BLOCK_LIMIT = 10
+GPT_MODEL = 'yandexgpt-lite'
